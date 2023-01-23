@@ -1,3 +1,8 @@
 # Tuto-Api-Rust
 Api Rest in Rust with MongoDB and Actix-web
-tets
+
+# Frontend init
+-> Vite v4.0.4
+cd mvc-rust-frontend
+<br/>
+npm run dev
